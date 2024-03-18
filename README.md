@@ -17,7 +17,6 @@ Além das minhas habilidades técnicas, estou profundamente envolvido com a comu
 
 
 
-![Welson GitHub stats](https://github-readme-stats.vercel.app/api?username=welsoncmp&show_icons=true&theme=dracula&count_private=true)  
 
 
 ## Tecnologias e Frameworks do Meu Dia a Dia
